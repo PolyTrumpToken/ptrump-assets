@@ -1,12 +1,24 @@
 {
-    "name": "PolyTrump",
-    "symbol": "PTRUMP",
-    "description": "official PolyTrump token",
-    "image": "https://raw.githubusercontent.com/PolyTrumpToken/ptrump-assets/refs/heads/main/polytrump.jpg",
-    "attributes": [
+  "name": "PolyTrump",
+  "symbol": "PTRUMP",
+  "description": "Ofiicial PolyTrump Token",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility"
+    }
+  ],
+  "properties": {
+    "creators": [
       {
-        "trait_type": "Item",
-        "value": "Developer Portal"
+        "address": "5RcXZaYQeKMbKwxwKvMzAguwRWq39jjepfXWKiwPRZXs",
+        "share": 100
       }
     ]
+  },
+  "socials": {
+    "twitter": "https://x.com/PolyTrump_",
+    "telegram": "https://t.me/polytrumptoken"
   }
+}
